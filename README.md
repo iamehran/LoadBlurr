@@ -1,4 +1,4 @@
-# [LiveDemo](https:)
+# [LiveDemo](https://iamehran.github.io/LoadBlurr/)
 ## This is a JavaScript code that creates a simple loading animation by blurring the background of a webpage while displaying a percentage of the loading progress.
 
 > The code starts by selecting two elements from the HTML document using the querySelector() method. The first element is a paragraph element with a class of loading-text that displays the percentage of the loading progress. The second element is a background element with a class of bg that will be blurred as the loading progresses.
